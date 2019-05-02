@@ -1,6 +1,8 @@
 # Script to Monitor Disk space and Monitor SQL service on the servers
 
 Input: Server names in csv format
+
+
 Output: Alert mail
 
 Scope:
